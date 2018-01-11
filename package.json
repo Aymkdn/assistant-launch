@@ -1,0 +1,9 @@
+{
+  "name": "assistant-launch",
+  "version": "1.0.0",
+  "description": "Permet de lancer un processus/programme sur la machine hôte via le package assistant-plugins",
+  "author": "aymkdn",
+  "main":"launch.js",
+  "repository":"https://github.com/Aymkdn/assistant-launch/",
+  "license": "MIT"
+}
