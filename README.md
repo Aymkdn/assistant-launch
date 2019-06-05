@@ -32,5 +32,7 @@ Exemple avec le lancement du programme [Kodi](https://kodi.tv) sur une machine-h
   11) Dites : « OK Google » suivi de votre phrase spéciale du point 4)  
   12) Et le programme se lance sur la machine hôte
   
+Si votre programme nécessite des paramètres, il faut l'appeler ainsi : `launch_"/path/vers/le/programme" param1 param2` (les guillements ne se trouvent qu'autour du programme en lui-même, pas des paramètres).
+  
 Pour en savoir sur comment lancer un programme, vous pouvez consulter [la documentation de NodeJS](https://nodejs.org/api/child_process.html#child_process_child_process_exec_command_options_callback).
 
